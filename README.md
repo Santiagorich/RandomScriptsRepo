@@ -1,4 +1,4 @@
-# TamperMonkeyRepo
+# RandomScriptsRepo
 Repo to save random scripts i make
 
 ## ColoniaExpress.js
