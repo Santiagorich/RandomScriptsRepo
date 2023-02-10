@@ -11,3 +11,9 @@ Notifies you when a new buyer request arrived (Rip buyer requests)
 
 ## Itau.js
 Will show above your creditcard how much you actually owe
+
+## PedidosYaPlus.js
+Sorts and filters food from all the restaurants you have nearby
+
+Use this mobile app instead:
+https://github.com/Santiagorich/MilaFinder
