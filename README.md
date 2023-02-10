@@ -9,3 +9,5 @@ Use in https://www.coloniaexpress.com/uy/Outlet or https://www.coloniaexpress.co
 TamperMonkey script
 Notifies you when a new buyer request arrived (Rip buyer requests)
 
+## Itau.js
+Will show above your creditcard how much you actually owe
